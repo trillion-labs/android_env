@@ -20,7 +20,7 @@ dependencies = [
     "grpcio",
     "numpy>=1.21",
     "portpicker>=1.2.0",
-    "protobuf>=2.6",
+    "protobuf>=5.26.0",
     "pygame",
 ]
 
